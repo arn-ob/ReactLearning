@@ -1,9 +1,9 @@
-Install ReactJS
-  npm install -g babel
-  npm install -g babel-cli
-  npm install create-react-app
-  create-react-app react-test
-  npm start
+Install ReactJS<br>
+  npm install -g babel<br>
+  npm install -g babel-cli<br>
+  npm install create-react-app<br>
+  create-react-app react-test<br>
+  npm start<br><br><br>
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
